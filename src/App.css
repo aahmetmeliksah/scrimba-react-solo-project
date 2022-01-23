@@ -34,3 +34,7 @@
   letter-spacing: -0.075em;
   color: #ffffff;
 }
+
+.card-container {
+  margin-top: 100px;
+}
