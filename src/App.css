@@ -38,3 +38,74 @@
 .card-container {
   margin-top: 100px;
 }
+
+.card-img {
+  width: 125px;
+  height: 168px;
+  left: 40px;
+  top: 100px;
+  border-radius: 5px;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.card-sub-container {
+  padding-left: 15px;
+  /* Add a border to the left for stylish look later */
+}
+
+.location {
+  width: 40px;
+  height: 10px;
+  left: 195px;
+  top: 119px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10.24px;
+  line-height: 12px;
+  letter-spacing: 0.17em;
+  color: #2b283a;
+}
+
+.card-title {
+  width: 326px;
+  height: 40px;
+  left: 184px;
+  top: 136px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 30px;
+  color: #2b283a;
+}
+
+.card-desc {
+  width: 326px;
+  height: 45px;
+  left: 184px;
+  top: 203px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10.24px;
+  line-height: 150%;
+  color: #2b283a;
+}
+
+.start-end {
+  width: 319px;
+  height: 11px;
+  left: 184px;
+  top: 183px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10.24px;
+  line-height: 12px;
+  color: #2b283a;
+}
